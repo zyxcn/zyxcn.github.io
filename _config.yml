@@ -9,18 +9,18 @@
 title: "zyxcn的博客"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+url ：“https://zyxcn.github.io”  ＃您网站的基本主机名和协议
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  XinYao1994
-email: u3004330@connect.hku.hk
+github_username:  zyxcn
+email: aridityland@163.com
 weibo_username: 
 zhihu_username: 
-linkedIn_username: xinyao1994
+linkedIn_username: zyxcn
 dribbble_username:
 
 description_footer: 正在建设中
@@ -35,7 +35,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 52bbb620d9680fd85254                            #生成的clientID
   clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
+  repo: zyxcn.github.io    #仓库名称
   owner: XinYao1994    #github用户名
   admin: XinYao1994
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
