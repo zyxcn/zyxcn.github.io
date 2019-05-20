@@ -9,7 +9,7 @@
 title: "zyxcn的博客"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url ：“https://zyxcn.github.io”  ＃您网站的基本主机名和协议
+url :"https://zyxcn.github.io" ＃您网站的基本主机名和协议
 
 permalink: /:year/:month/:day/:title/
 
