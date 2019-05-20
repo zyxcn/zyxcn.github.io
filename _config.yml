@@ -76,4 +76,4 @@ plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
