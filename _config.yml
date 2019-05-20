@@ -36,8 +36,8 @@ gitalk:
   clientID: 52bbb620d9680fd85254                            #生成的clientID
   clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
   repo: zyxcn.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  owner: zyxcn    #github用户名
+  admin: zyxcn
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
